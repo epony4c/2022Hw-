@@ -1,0 +1,5 @@
+# 帆软1day
+# 来源：https://www.cnsuc.net/thread-537.htm
+
+/webroot/decision/view/form?op=chartlink&amp;cmd=refresh_relate_data
+

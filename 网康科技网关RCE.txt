@@ -1,0 +1,5 @@
+# 网康科技网关RCE 武器库
+# 来源：https://www.cnsuc.net/thread-551.htm
+
+POC：
+/scripts/aitrain.php

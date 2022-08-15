@@ -1,0 +1,5 @@
+# 帆软报表反序列化
+# 来源：https://www.cnsuc.net/thread-538.htm
+
+poc：
+webroot/decision/remote/design/channel

